@@ -1,0 +1,9 @@
+問4
+HTMLとCSSファイルを関連付けるために必要な要素は、次のうちどれでしょう。
+　　　1. <link rel="stylesheet" href="">
+　　　2. <link rel="stylesheet" src="">
+　　　3. <css rel="stylesheet" href="">
+　　　4. <css rel="stylesheet" src="">
+　　　
+　　　
+A. 1. <link rel="stylesheet" href="">
