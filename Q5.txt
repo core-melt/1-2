@@ -1,0 +1,12 @@
+問5
+正しい記述は、次のうちどちらでしょう。
+　　　1. <div id="content"></div>
+　　　　<div id="content"></div>
+　　　　<div id="content"></div>
+
+　　　2. <div class="content"></div>
+　　　　<div class="content"></div>
+　　　　<div class="content"></div>
+　　　　
+A. 2
+idは同じWebページで一度しか使えないため。
